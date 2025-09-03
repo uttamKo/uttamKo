@@ -1,5 +1,5 @@
 # About Me:
-###  Hi there! I'm Uttam Koirala<br><br> I'm a **Front-End developer** currently working at **Edit Enterprises**, where I build scalable and responsive web applications.<br><br> Tech Stack I love: **React**, **MongoDB**, **MySQL**, **HTML/CSS**, and sometimes even wrangle with **Python** or **Docker**.<br><br> I enjoy solving real-world problems through code and learning new technologies to improve my craft.<br><br> Reach me at: **uttamkoirala2060@gmail.com**<br><br> 
+###  Hi there! I'm Uttam Koirala<br><br> I'm a **Front-End developer** currently working at **Edit Enterprises**, where I build scalable and responsive web applications.<br><br> Tech Stack I love:**HTML5/CSS3** **Javascript**, **React**, **Laravel**, **MySQL**, **OOP** and sometimes even wrangle with **Python** or **Docker**.<br><br> I enjoy solving real-world problems through code and learning new technologies to improve my craft.<br><br> Reach me at: **uttamkoirala2060@gmail.com**<br><br> 
 
 
 #Socials:
